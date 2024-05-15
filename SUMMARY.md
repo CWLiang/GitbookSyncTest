@@ -1,3 +1,5 @@
 # Table of contents
 
-* [Test page](README.md)
+* [Intro](README.md)
+* [Primary Markets](primary-markets.md)
+* [Secondary Markets](secondary-markets.md)

@@ -1,5 +1,3 @@
-# Test page
+# Intro
 
-This is a test for gitSync feature on gitbook.
-
-I want to sync the changes from gitbook to github.
+Test 123
